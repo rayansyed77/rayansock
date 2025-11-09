@@ -7,6 +7,10 @@
     {
       "key": "Ryzen",
       "device": "e476e61a0cf140c2"
+    },
+    {
+      "key": "RYZEN",
+      "device": "a65f66727fd44176"
     }
   ]
 }
